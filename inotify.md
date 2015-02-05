@@ -36,5 +36,6 @@ CREATE TABLE IF NOT EXISTS `data` (
 
 what's more,
 
-a crontab script in order of Duplicate removal are necessary
+a crontab script in order of Duplicate removal are necessary.
+
 
